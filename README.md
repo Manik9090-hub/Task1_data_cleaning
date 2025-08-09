@@ -8,3 +8,4 @@ Verified and corrected data types for numeric and date columns
 
 [Before cleaning](https://github.com/Manik9090-hub/Task1_data_cleaning/blob/d7772a1df668ff821e1f96d704bd2a92c0d36d4f/marketing_campaign%20%20-%20%20Read-Only%20-%20Excel%2009-08-2025%2015_59_57.png)
 
+[After cleaning](https://github.com/Manik9090-hub/Task1_data_cleaning/blob/177d9dba13399fb18ad4ab3be95fd039eaec109d/marketing_campaign%20-%20Excel%2009-08-2025%2015_56_41.png)
